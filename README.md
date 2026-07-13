@@ -21,7 +21,7 @@ rotating spinner, scanning highlights, and subtle blink:
 
 | Before | After |
 | :---: | :---: |
-| <img src="docs/images/copilot-original.png" width="128" alt="Original Copilot artwork"> | <img src="docs/images/copilot-review.gif" width="128" alt="Copilot with an animated spinner, scanning highlights, and blink"> |
+| <img src="docs/images/copilot-original.png" width="128" alt="Original Copilot artwork"> | <img src="docs/images/copilot-review.webp" width="128" alt="Copilot with an animated spinner, scanning highlights, and blink"> |
 
 Place the transparent Copilot source image at `assets/copilot.png`, then run:
 
