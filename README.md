@@ -76,5 +76,5 @@ is authorized.
 
 ## License
 
-Jonmoji's source code and documentation are available under the ISC License.
+jonmoji's source code and documentation are available under the ISC License.
 Source artwork supplied by users is not included or licensed by this project.

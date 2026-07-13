@@ -1,4 +1,4 @@
-# Jonmoji Agent Guide
+# jonmoji Agent Guide
 
 These instructions apply to the whole repository unless a deeper `AGENTS.md` overrides them. The closest `AGENTS.md` wins.
 

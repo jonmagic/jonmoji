@@ -1,9 +1,9 @@
 ---
 name: project-workflow
-description: Create and validate deterministic animated emoji in Jonmoji. Use for "create an emoji", "animate this icon", "render a spinner emoji", or adding a reusable animation preset. Do not use for unrelated image editing.
+description: Create and validate deterministic animated emoji in jonmoji. Use for "create an emoji", "animate this icon", "render a spinner emoji", or adding a reusable animation preset. Do not use for unrelated image editing.
 ---
 
-# Jonmoji Project Workflow
+# jonmoji Project Workflow
 
 Use this skill to turn transparent source artwork into a small, consistent
 animated emoji without regenerating the character in each frame.
